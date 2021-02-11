@@ -14,7 +14,7 @@
     </v-row>
     <v-row class="footer" >
     <v-col align="center" class="mt-5">
-    <p>© Copyright 2020 <b style="color:green">ASCREA</b></p>
+    <p>© Copyright 2021 <b style="color:green">ASCREA</b></p>
     <img  class="img-responsive ascreaLogo" src="..\assets\unnamed.png" width="50" >
     </v-col>
     </v-row>
@@ -37,9 +37,8 @@ export default {
   
 }
 .footer{
-    color:white;
+    color:black;
     margin-top:100px;
-    background-color:#212b91;
     height:150px
 }
 
