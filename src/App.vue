@@ -13,41 +13,16 @@
     </ul>
   </nav>
   </v-container>
-    <accueil/>
-    <agenda/>
+<router-view></router-view>
 </v-app>
 </template>
 
 <script>
-import accueil from './components/accueil';
-import agenda from './components/agenda';
-
 export default {
   name: 'App',
-
-  components: {
-     accueil,
-     agenda,
-  },
-
-  data: () => ({
-    scrollPosition: null
-  }),
-  methods: {
-    updateScroll() {
-       this.scrollPosition = window.scrollY
-    }
-},
-mounted() {
-    window.addEventListener('scroll', this.updateScroll);
-}
 };
 </script>
 <style >
-html{
-  scroll-behavior: smooth;
-}
-
 .appnav{
   background-color:white
 }

@@ -24,7 +24,7 @@
             <v-row >
             <v-col>
             <div class="video">
-            <iframe class="responsive-iframe" src="https://www.youtube.com/embed/x2PQXORoKBM"></iframe>
+           <!-- <iframe class="responsive-iframe" src="https://www.youtube.com/embed/x2PQXORoKBM"></iframe> -->
             </div>
             </v-col>
             </v-row>
@@ -45,7 +45,7 @@
             <v-row >
             <v-col align="center">
             <div class="video">
-            <iframe class="responsive-iframe" src="https://www.youtube.com/embed/vczYAINdTDw"></iframe>
+           <!-- <iframe class="responsive-iframe" src="https://www.youtube.com/embed/vczYAINdTDw"></iframe> -->
             </div>
             </v-col>
             </v-row>
@@ -66,7 +66,7 @@
             <v-row >
             <v-col align="center">
             <div class="video">
-            <iframe class="responsive-iframe" src="https://www.youtube.com/embed/WXkV__9BL7U"></iframe>
+           <!-- <iframe class="responsive-iframe" src="https://www.youtube.com/embed/WXkV__9BL7U"></iframe> -->
             </div>
             </v-col>
             </v-row>
@@ -87,7 +87,7 @@
             <v-row >
             <v-col align="center">
             <div class="video">
-            <iframe class="responsive-iframe" src="https://www.youtube.com/embed/phITxIOPark"></iframe>
+          <!--  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/phITxIOPark"></iframe> -->
             </div>
             </v-col>
             </v-row>
